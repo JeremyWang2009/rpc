@@ -4,3 +4,5 @@
 
 ## what's rpc?
 RPC：远程过程调用（Remote Procedure Call）
+![image](./document/image/rpc.jpg)
+
