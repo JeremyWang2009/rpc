@@ -17,7 +17,7 @@
     </modules>
 
     <properties>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <jackson.version>2.9.9</jackson.version>
         <netty-all.version>4.1.42.Final</netty-all.version>
         <lombok.version>1.16.12</lombok.version>
